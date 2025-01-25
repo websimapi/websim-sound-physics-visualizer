@@ -30,6 +30,13 @@ body {
   text-align: center;
 }
 
+.instructions {
+  font-size: 0.9em;
+  color: #666;
+  margin: 1em 0;
+  line-height: 1.4;
+}
+
 #controls {
   position: absolute;
   bottom: 20px;
